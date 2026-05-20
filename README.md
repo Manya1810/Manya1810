@@ -6,7 +6,7 @@
 <h1>Hi 👋, I'm Manya Jain</h1>
 
 <h3>
-🚀 AI/ML Enthusiast | B.Tech CSE Student | Aspiring Software Engineer
+ AI/ML Enthusiast | B.Tech CSE Student | Aspiring Software Engineer
 </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full-Stack+Development;Problem+Solver+%7C+DSA+Enthusiast;Building+Real-World+AI+Solutions;Always+Learning+New+Technologies"/>
