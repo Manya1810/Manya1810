@@ -1,16 +1,13 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Manya Jain
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there%2C+I'm+Manya+Jain+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Future+Tech+Builder)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Full+Stack+Developer;B.Tech+CSE+Student;React.js+%7C+Node.js+%7C+MongoDB;Machine+Learning+%7C+System+Design;1500%2B+DSA+Problems+Solved;Building+Scalable+and+Intelligent+Systems" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d8f0c84-5f58-4e59-8b8f-4b1bdf5a1b76.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Transforming%20Ideas%20into%20Intelligent%20Solutions&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 
 </div>
 
 ---
+
 
 # 💫 About Me
 
@@ -45,9 +42,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
-</a>
+
 
 </div>
 
