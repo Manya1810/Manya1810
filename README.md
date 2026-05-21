@@ -20,7 +20,7 @@
 
 - 🎓 B.Tech CSE Student passionate about **Artificial Intelligence, Machine Learning, and Software Development**
 - 🚀 Building **AI-powered applications** and scalable full-stack systems
-- 🧠 Solved **1500+ DSA Problems**
+- 🧠 Solved **150+ DSA Problems**
 - 💡 Interested in **System Design, Clean Architecture, and Product Engineering**
 - 🌱 Currently exploring **Deep Learning, Backend Scaling, and AI Integrations**
 - ⚡ Love solving real-world problems using technology
